@@ -1,0 +1,1 @@
+TCE504 Children website — upload ALL files and assets folder together to GitHub Pages. Opening index.html alone in a chat attachment will not load style.css or app.js. Google Sheets submissions use the existing endpoint, but require live verification.
